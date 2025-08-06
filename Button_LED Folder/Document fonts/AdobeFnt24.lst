@@ -6,7 +6,7 @@ Handler:DirectoryHandler
 FontType:Invalid
 OutlineFileName:/Users/camilacolussi/Documents/GitHub/Button_LED/Button_LED Folder/Document fonts/AdobeFnt24.lst
 FileLength:5921
-FileModTime:775655886
+FileModTime:776160875
 %EndFont
 
 %BeginFont
@@ -31,7 +31,7 @@ hasSBIX:no
 hasCOLR:no
 VariableFontType:NonVariableFont
 FileLength:218640
-FileModTime:775216982
+FileModTime:776160875
 DesignSize:110
 NameArray:0,Mac,4,Minion Pro
 NameArray:0,Win,1,Minion Pro
@@ -58,7 +58,7 @@ hasSBIX:no
 hasCOLR:no
 VariableFontType:NonVariableFont
 FileLength:1254028
-FileModTime:710758582
+FileModTime:776160875
 NameArray:0,Mac,4,Gill Sans
 %EndFont
 
@@ -83,7 +83,7 @@ hasSBIX:no
 hasCOLR:no
 VariableFontType:NonVariableFont
 FileLength:1254028
-FileModTime:710758582
+FileModTime:776160875
 NameArray:0,Mac,4,Gill Sans Bold
 %EndFont
 
@@ -108,7 +108,7 @@ hasSBIX:no
 hasCOLR:no
 VariableFontType:NonVariableFont
 FileLength:1254028
-FileModTime:710758582
+FileModTime:776160875
 NameArray:0,Mac,4,Gill Sans Bold Italic
 %EndFont
 
@@ -133,7 +133,7 @@ hasSBIX:no
 hasCOLR:no
 VariableFontType:NonVariableFont
 FileLength:1254028
-FileModTime:710758582
+FileModTime:776160875
 NameArray:0,Mac,4,Gill Sans Italic
 %EndFont
 
@@ -158,7 +158,7 @@ hasSBIX:no
 hasCOLR:no
 VariableFontType:NonVariableFont
 FileLength:1254028
-FileModTime:710758582
+FileModTime:776160875
 NameArray:0,Mac,4,Gill Sans Light
 %EndFont
 
@@ -183,7 +183,7 @@ hasSBIX:no
 hasCOLR:no
 VariableFontType:NonVariableFont
 FileLength:1254028
-FileModTime:710758582
+FileModTime:776160875
 NameArray:0,Mac,4,Gill Sans Light Italic
 %EndFont
 
@@ -211,7 +211,7 @@ hasSBIX:no
 hasCOLR:no
 VariableFontType:NonVariableFont
 FileLength:1254028
-FileModTime:710758582
+FileModTime:776160875
 NameArray:0,Mac,4,Gill Sans SemiBold
 NameArray:0,Win,1,Gill Sans
 %EndFont
@@ -240,7 +240,7 @@ hasSBIX:no
 hasCOLR:no
 VariableFontType:NonVariableFont
 FileLength:1254028
-FileModTime:710758582
+FileModTime:776160875
 NameArray:0,Mac,4,Gill Sans SemiBold Italic
 NameArray:0,Win,1,Gill Sans
 %EndFont
@@ -266,7 +266,7 @@ hasSBIX:no
 hasCOLR:no
 VariableFontType:NonVariableFont
 FileLength:1254028
-FileModTime:710758582
+FileModTime:776160875
 NameArray:0,Mac,4,Gill Sans UltraBold
 NameArray:0,Win,16,Gill Sans
 %EndFont
